@@ -4,17 +4,17 @@
 This course involves using Python to explore many different types of data. It covers how to prepare data for analysis, perform simple statistical analysis, create meaningful data visualizations, predict future trends from data, and more. It concludes with a [final assignment](https://github.com/ManchekarSankalp/Data-analysis-with-Python-by-IBM/blob/main/Sankalp_Final_Project_Lab-6.ipynb) predicting of the market prices of houses based on a detailed dataset. Each notebook here is incredibly detailed, and they collectively show the full process of predictive analysis. Some topics, such as data wrangling, have additional associated notebooks, due to the breadth of content covered in this course. 
 
 ## 📑 Main Topics 
-- [Importing datasets]()
+- Importing datasets
 
   - Understanding the data
   - Importing and exporting data in Python
 
-- [Working with different file format]()
+- Working with different file format
 
   - Thus, it is mandatory for any data scientist (or data engineer) to be aware of different file formats, common challenges in handling them and the best, most efficient ways to handle this data in real life.
   - There are various formats for a dataset, .csv, .json, .xlsx etc. The dataset can be stored in different places, on your local machine or sometimes online.
 
-- [Data wrangling]()
+- Data wrangling
 
   - Identifying and handling missing values
   - Data formatting
@@ -22,14 +22,14 @@ This course involves using Python to explore many different types of data. It co
   - Binning
   - Indicator variables
   
-- [Exploratory Data Analysis]()
+- Exploratory Data Analysis
 
   - Summarizing main characteristics of the data
   - Gaining better understanding of the data set
   - Uncovering relationships between the variables
   - Extracting important variables
   
-- [Model Development]()
+- Model Development
 
   - Simple and Multiple Linear Regression
   - Model Evaluation Using Visualization
@@ -37,18 +37,12 @@ This course involves using Python to explore many different types of data. It co
   - R-squared and MSE for In-Sample Evaluation
   - Prediction and Decision Making
   
-- [Model Evaluation and Refinement]()
+- Model Evaluation and Refinement
 
   - Over-fitting, under-fitting and model selection
   - Ridge regression
   - GridSearch
   - Model refinement
-
-- [Auto_EDA_Dataprep](https://rb.gy/hyzanf)
-
-  - DataPrep is an open-source library available for python that lets you prepare your data using a single library with only a few lines of code. 
-  - DataPrep can be used to address multiple data-related problems, and the library provides numerous features through which every problem can be solved and taken care of.
-
 
 ## 🔑 Key Skills Learned 
 - Using Pandas, Numpy and Scipy libraries for data manipulation
@@ -84,14 +78,12 @@ The following Python libraries were used throughout the certification: <br>
  <img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DA0101EN-SkillsNetwork/labs/Module%203/images/IDSNlogo.png" width="300" alt="cognitiveclass.ai logo" />
 </p>  
 
-🏆 Certificates
 
+## 🏆 Certificates
 To verify the certificates, click the images to follow the links.
-
  <p align="middle">
    
   <a href="https://www.coursera.org/account/accomplishments/certificate/WLPH88NGVH6L">https://www.coursera.org/account/accomplishments/certificate/WLPH88NGVH6L </a>
- 
 </p>
 
 
