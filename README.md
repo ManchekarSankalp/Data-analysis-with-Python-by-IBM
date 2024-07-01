@@ -83,3 +83,15 @@ The following Python libraries were used throughout the certification: <br>
  <img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DA0101EN-SkillsNetwork/labs/Module%203/images/IDSNlogo.png" width="300" alt="cognitiveclass.ai logo" />
 </p>  
 
+Certificates
+
+To verify the certificates, click the images to follow the links
+
+https://coursera.org/share/ff369501a4d3e41536763d03186ad3ba
+
+<img src="https://media.istockphoto.com/id/1331164793/vector/study-championship-logo-template-design.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=7QClXetCt90IySTsOVBWPzEqWL6TWxAwRQnFmhNNsbM=" width = '25' height = '25'/> Data Analysis with Python
+
+Issued by Coursera
+Authorized by IBM
+This badge earner has the core skills in Data Analysis using Python. They can readily clean, visualize and summarize data using Pandas. Using Scikit-learn, the earner can develop Data Pipelines, construct Machine learning models for Regression and evaluate these models.
+
