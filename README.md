@@ -77,22 +77,21 @@ The following Python libraries were used throughout the certification: <br>
  <img  src="https://user-images.githubusercontent.com/84391594/152706217-c0cfd9d8-22ad-4c3b-9ac7-70a6cf2799f7.png" height="35"> <br>
 </p>
 
-🏆 Certificates
-
-To verify the certificates, click the images to follow the links.
-
- <p align="middle">
-  <a href="https://www.coursera.org/account/accomplishments/certificate/WLPH88NGVH6L"><img src="https://user-images.githubusercontent.com/110245477/218942808-7945cb39-3634-4adb-bbdb-8befb6c6a6cc.png" height="430"></a>
- 
-</p>
-
-
 
 <p align="middle">
  <img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DA0101EN-SkillsNetwork/labs/Module%203/images/IDSNlogo.png" width="300" alt="cognitiveclass.ai logo" />
 </p>  
 
-Certificates
+🏆 Certificates
+
+To verify the certificates, click the images to follow the links.
+
+ <p align="middle">
+  <a href="https://www.coursera.org/account/accomplishments/certificate/WLPH88NGVH6L"><img src="" height="430"></a>
+ 
+</p>
+
+
 
 
 Issued by Coursera
