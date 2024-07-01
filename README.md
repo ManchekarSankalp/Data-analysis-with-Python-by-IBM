@@ -77,6 +77,15 @@ The following Python libraries were used throughout the certification: <br>
  <img  src="https://user-images.githubusercontent.com/84391594/152706217-c0cfd9d8-22ad-4c3b-9ac7-70a6cf2799f7.png" height="35"> <br>
 </p>
 
+🏆 Certificates
+
+To verify the certificates, click the images to follow the links.
+
+ <p align="middle">
+  <a href="https://www.coursera.org/account/accomplishments/certificate/WLPH88NGVH6L"><img src="https://user-images.githubusercontent.com/110245477/218942808-7945cb39-3634-4adb-bbdb-8befb6c6a6cc.png" height="430"></a>
+ 
+</p>
+
 
 
 <p align="middle">
@@ -85,15 +94,7 @@ The following Python libraries were used throughout the certification: <br>
 
 Certificates
 
-To verify the certificates, click the images to follow the links
-
-<a href="https://coursera.org/share/ff369501a4d3e41536763d03186ad3ba"><img src="C:\Users\sanka\OneDrive\Desktop\Sankalp Certificates\Certificates" height="430"></a>
-  <a href="https://www.credly.com/badges/66fa8854-11e5-4afd-ab0b-12d5007b6a08/public_url"><img src="C:\Users\sanka\OneDrive\Desktop\Sankalp Certificates\Certificates" height="430"></a>
-</p>
-
-
 
 Issued by Coursera
 Authorized by IBM
 This badge earner has the core skills in Data Analysis using Python. They can readily clean, visualize and summarize data using Pandas. Using Scikit-learn, the earner can develop Data Pipelines, construct Machine learning models for Regression and evaluate these models.
-
