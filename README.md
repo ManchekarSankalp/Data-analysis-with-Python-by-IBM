@@ -87,9 +87,11 @@ Certificates
 
 To verify the certificates, click the images to follow the links
 
-https://coursera.org/share/ff369501a4d3e41536763d03186ad3ba
+<a href="https://coursera.org/share/ff369501a4d3e41536763d03186ad3ba"><img src="C:\Users\sanka\OneDrive\Desktop\Sankalp Certificates\Certificates" height="430"></a>
+  <a href="https://www.credly.com/badges/66fa8854-11e5-4afd-ab0b-12d5007b6a08/public_url"><img src="C:\Users\sanka\OneDrive\Desktop\Sankalp Certificates\Certificates" height="430"></a>
+</p>
 
-<img src="https://media.istockphoto.com/id/1331164793/vector/study-championship-logo-template-design.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=7QClXetCt90IySTsOVBWPzEqWL6TWxAwRQnFmhNNsbM=" width = '25' height = '25'/> Data Analysis with Python
+
 
 Issued by Coursera
 Authorized by IBM
