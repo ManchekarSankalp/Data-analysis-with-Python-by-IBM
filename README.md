@@ -87,7 +87,7 @@ The following Python libraries were used throughout the certification: <br>
 To verify the certificates, click the images to follow the links.
 
  <p align="middle">
-  <a href="https://www.coursera.org/account/accomplishments/certificate/WLPH88NGVH6L"><img src="" height="430"></a>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/WLPH88NGVH6L"><img src="C:\Users\sanka\Downloads" height="430"></a>
  
 </p>
 
