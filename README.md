@@ -45,7 +45,7 @@ This course involves using Python to explore many different types of data. It co
   - Model refinement
 
 ## 🔑 Key Skills Learned 
-- Using Pandas, Numpy and Scipy libraries for data manipulation
+- Using Pandas and Numpy libraries for data manipulation
 - Using Scikit-Learn to build smart models and make predictions
 - Building machine learning regression models
 - Building data pipelines
